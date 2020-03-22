@@ -13,3 +13,8 @@ Gemfile.lock
 package-lock.json
 yarn.lock
 .idea
+
+vendor/
+node_modules/
+/.bundle/
+Brewfile
