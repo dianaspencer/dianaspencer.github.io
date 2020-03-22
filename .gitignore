@@ -17,7 +17,7 @@ yarn.lock
 npm*
 
 # Relocate folders in the future
-/vendor/
+vendor/
+node_modules/
+/.bundle/
 Brewfile
-/node_modules/
-.bundle/
