@@ -10,9 +10,5 @@ gem "jekyll-sitemap"
 gem "jemoji"
 gem "mini_magick"
 gem "sass"
-<<<<<<< HEAD
-gem "sprockets", "4.0.0.beta6"
-=======
 gem "sprockets", "~> 3.7"
->>>>>>> master
 gem "uglifier"
