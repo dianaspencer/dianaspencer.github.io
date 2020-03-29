@@ -3,7 +3,7 @@ layout: post
 title: "The open source trail"
 description: "Reflections on why open source is worth pursing"
 thumb_image: "documentation/sample-image.jpg"
-tags: [opensource]
+tags: []
 ---
 
 #### Open source code is everywhere :earth_africa:
