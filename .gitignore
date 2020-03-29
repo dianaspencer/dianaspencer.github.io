@@ -15,3 +15,9 @@ yarn.lock
 .idea
 
 npm*
+
+# Relocate folders in the future
+vendor/
+node_modules/
+/.bundle/
+Brewfile
