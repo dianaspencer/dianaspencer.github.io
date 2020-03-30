@@ -1,2 +1,2 @@
 
-## Hi. Foo bar.
+## Personal blog
