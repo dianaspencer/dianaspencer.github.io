@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "The open source trail"
-description: "Reflections on why open source is worth pursing"
+description: "Reflections on why open source is worth pursuing"
 thumb_image: "documentation/sample-image.jpg"
 tags: []
 ---
 
 #### Open source code is everywhere :earth_africa:
 
-As a software engineer in a young tech company, I have witnessed
-that the fast-paced development of a product highly depends on the
+As a software engineer that has worked in a young tech company, I have witnessed
+how the fast-paced development of a product highly depends on the
 open source community. This can be said for almost every tech start-up
 in the year 2020.
 
@@ -25,7 +25,8 @@ resources promoting open source.
 > Linus Torvalds
 
 Linus, inventor of the Linux kernal, paints the open source landscape
-with freedom and expressivity of taking ideas and giving them life. This is
-why for me contributing to open source as a developer is important.
-I would like to paint a landscape with colors imagined from a quirky
-female developer. :woman_technologist:
+with freedom and expressivity of taking abstract ideas and giving them impactful
+meaning. This is why for me contributing to open source as a developer is important.
+It is a gateway for me to contribute to causes I deeply care about.
+
+:woman_technologist:
